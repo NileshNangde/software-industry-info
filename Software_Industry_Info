@@ -1,0 +1,855 @@
+
+Trainer : Mr. Ashok (11+ Yrs Exp, Tech Lead)
+
+
+
+   On Boarding  HR
+   Resource Manager
+   KT Knowledge Transfer
+   HR Portal 
+
+==============================
+Types of Software Companies
+==============================
+
+1) Product Based Companies
+
+		=> Develop projects and sell to customers
+
+		Ex: Google, Microsoft, Amazon, Facebook, Oracle, IBM....
+
+		=> Interview process will be difficult
+
+				a) Coding Tests
+				b) Data Structures
+				c) Time Complexity
+				d) Space Complexity
+				e) Algorithms
+				f) System Design
+		
+		=> High packages will be available	
+		
+				Freshers => 15 to 20 LPA			
+
+2) Service Based Companies
+
+	=> Develop projects based on client requirements
+
+	Ex: TCS, INFY, CTS, CapGemeni, TechM, Wipro, HCL, Deloitte
+
+	=> Interview process will happen with latest technologies
+
+			a) Coding Test
+			b) Core Java
+			c) Spring Boot
+			d) Microservices
+			e) Cloud
+			f) Tools
+			g) Project
+
+	=> Freshers salary => 3.6 LPA
+	=> Experienced Salary = exp * 5/6 lakhs
+
+3) Outsourcing Companies
+
+	=> These companies will provide employees to other companies
+
+	=> Select trained freshers from institues for less pkg
+			(2 to 3 LPA)
+
+		=> 2 to 3 months on job training (corporate culture)
+
+		=> Company will sell the candiate for good package
+
+
+============================
+Types of Software Projects
+============================
+
+1) Scratch development : Develop from starting (15%)
+
+2) Support projects : Enhancements/Change Request/Bug fixing (75%)
+
+3) Migration projects : Update from old technology to latest technology (10%)
+
+===========================
+Types of Teams In project  
+===========================
+
+
+1) On Shore Team : (functional) Working from client location
+
+			=> Understand client business model
+			=> Understand client requirements
+			=> Discussion with client
+			=> Prepare BRD/SRS document (Business Requirement Document , Software Requirement Specification)
+			=> Preapre FDD (snagit) (Functional Design Document)
+			=> Take Client Approvals for development
+			=> Explain requirements to offshore
+
+2) Off shore Team : Development + Testing + DevOps   
+
+			=> Understand FDD
+			=> Participate in group discussions   
+			=> Prepare Query Log 
+			=> Join Bridge Calls (ms teams)   
+			=> Project Design
+			=> Development
+			=> Testing
+			=> Deployment
+			=> Delivery
+			=> Support       
+
+
+
+=================
+Types of VISA
+=================
+
+B1 Visa ===> Business Visa (2 to 3 months)
+
+L1 Visa ===> (Skilled) 2 years (You should work for same company)
+
+H1 Visa ==> 3 years (work permit) => Lottery
+
+F1 Visa ==> Student Visa
+
+
+===========================================
+Types of Company Domain in IT industry
+===========================================
+
+
+ -> Banking Domain
+ -> HealthCare Domain
+ -> E-commerce Domain
+ -> EdTech Domain
+ -> Insurance Domain
+ -> Travel Domain
+ -> Telecom Domain
+ -> Finance Domain
+ -> Entertainment Domain
+ -> Advertising 
+
+
+
+
+ If you are showing gap as experience 
+ =====================================
+
+    then on which project you are working - migration , support , or scrathed project
+    => 1 st project is always support project 
+    => 2 nd project is scratched [project]
+    => 3rd project is migration project
+
+ In interview always act like you are allready working in company , I have job  - then you can give experience interview
+ ============================================================================= 
+
+
+ what if you do mistake after joining company
+ =============================================
+
+ tell them I my old company ,  do like this , in your company I will change
+   
+ =======================================================
+ don't put tension phase on your body , In any how phase
+ =======================================================
+
+
+
+ Companies having Strick background verification
+ =================================================
+
+ TCS
+ 
+
+
+      ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+      How to setup the work space for application after joing into the company
+      ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+      -> Get VPN (virtual private network) credentials from company for GIT acces
+
+      -> Git Repository access ( but cannot run app because DB access required )
+
+      -> Git DB access   ( Company Team create special DB for us for our working )
+
+      -> Get settings.xml ( artifactory server sccess)
+
+      -> Setup workspace ( after all complete then then import project in IDE)
+
+      Note : app should be up and running in local 
+
+      -> Company gives us 7 days to setup the project in our laptop
+      -> one of the most challenging tast after joining into the company
+
+
+
+
+     +++++++++++++++++++++++++++++
+      DO and Don'ts in IT company
+      +++++++++++++++++++++++++++
+
+      -> Dont sent any personal email from company gmail with project information , client information , etc
+
+      -> If you send project/ client information to your personal mail then you will loose your job.
+
+      -> Dont open social media sites from office system because everything will be tracked in office system by networking team
+         ex: facebook , Gmail eetc
+
+      -> Dont discuss your package with anybody in the company and dont ask anybody about their salary 
+
+      -> because colligs can jelious on you and they dont help you in company and they complent about you 
+
+      -> If you get job with fake experience dont tell to anybody about your fake experience in the company 
+
+      -> Dont connect Hard Disc / Pendrive to office laptops
+        ( because your pendrive corrupted , they have such software install in that )
+
+
+      +++++++++
+        Do's
+      +++++++++
+
+      -> You should be a good team player ( you should have good relations will all team members)
+
+      -> OFr every one month setup one to one meeting with your team llead or team manager to discuss about your work performance and discuss about improvement to get into next level.
+
+      -> Declare your investements in HR portal for Tax deduction( talk to CA )
+           - Bike loan
+           - Home loan
+        - In one year 4 quarters are there 3 month per quarter 
+        - In one quarter tax deducted from your account
+
+
+      -> Declare your's and your family members details in Insurance Portal ( Talk to Insurance department in company)
+
+      -> Every month payslip send from company mail to personal mail
+
+      -> Every  Year Form 16 will be generate that you send to your personal gmail
+
+      -> If you have Long leave plan , then take permission from your lad / manager one month in advance ( vacation / marriage )
+
+
+
+       ++++++++++++++++++++
+       Joining Formalities
+       ++++++++++++++++++++
+
+       -> On the day of joining in the company  , On bording HR will guide you to complete joining formalities .
+
+       -> Employment documents - we have to fill up 
+            - old company name
+            - salary 
+            - PF account details , if no then fill no , they will give
+            - UAN number - if no 
+
+       -> Collect Laptop from IT deparment 
+
+       -> Collect Salary Account from  Accounts Team ( Bank Representative)
+           - old or new account you can join
+
+       -> Enter your salary account details in HR portal
+          - So company can send you money on your account
+
+       -> Collect ID card from Badge Deparment , because every day we need to swap that id for attendence
+
+       -> Attend Company Induction program to know more about company rules and policies  - On Boarding HR tell you on which day this program will happent
+           - they explain company policy 
+           - company rules
+           - new ruels
+           - rules and regulation to follow
+           - What are building we have
+           - where new buildings are planting 
+           - office timings
+           - How many leaves are available
+           - On which date you get the salary
+           -
+
+       -> Note Upto Joining formalities an On Boarding HR helps you and this formalities we need to complete in one or two days 
+
+       -> After Joing formalities are completed contact to " Resource Manager " to get the project in the company
+           - Resource Manager helps you in which project the requirement will be available based on your skills
+
+       -> RM will find sutaible project for your skillset and they will schedule meeting with Project Manager
+          - upto we dont get any project we are on bench
+          - depend upon situation 
+          - to get project it may be varry 
+          - within a week , or 1 month , one year its depends on situation
+          - basically 3 month of time it takes to get project ( upto that time enjoy )
+
+       -> Project Manager take interview of you based on your skill set
+
+       -> If you fail that interview RM again schedule interview for you 
+
+       -> Once project interview got complete you will be allocated to project 
+
+       -> Once you got allocated to project , they will provide KT ( Knowledge Transfer)
+           - what is our project
+           - what is architecture of project 
+           - what technologies are available in project
+           - what functionalitites are available
+           -
+
+       -> After KT got completef , they will assign you  the work
+
+       -> In few projects initially they will assign "Code Review / Sonar Issues Fixing / Unit Testing " etc.
+
+       -> It Depends upon what type of company you join MNC or Non MNC  
+
+       -> If MNC You will get time to get project 
+
+       -> If non MNC immediately they join you on Coding Development 
+
+
+
+
+       Note : In Company what ever task they given to you , you need to complete it , what ever you know or dont know , take 1 to 2 days extra to complete , If dont know  , but dont say I cant complete
+
+
+
+
+        +++++++++++++++++++++
+         Exit Formalitiees
+         +++++++++++++++++++++
+
+         -> Once you got offer letter form another company setup one to one meeting with your manager and tell him/her that you are planning to resign
+
+         -> Manager will ask the reason for resign ( tell that you got offer with better package for carrer growth)
+
+         -> Manager may ask you to stay back in same company ( he will tell benefits , we will give you same package can you stay back)
+
+         -> After descussin complete with manager , then resign in HR portal 
+            - In HR portal there is one button "Submit Resignation"
+            - HR team get that mail from you and send mail about your last working days 
+            - when you leave the company that depends upon notice period
+
+         -> Once you resign you will get mail from HR team with last working date 
+
+         -> While serving Notice Period we should not take any leave
+
+         -> While serving notice period we have to hand over all our work to existing team members 
+
+         -> Provide KT to team members
+               Note: While serving notice period we can cancel our Resignition
+
+         -> On last working date send email to all the team members with Good Bye message
+
+         -> Submit youe ID card , Lpatop and all company belonging to respective team .
+
+         -> Once your last working date is completed with in 30 days company will do "Full and Final Settlement " and will send salary , experience certificate and reliving letter in your email
+
+
+
+
+
+         ==================
+			Resume Preparation
+			=================
+
+			1)  Resume Structure
+
+			2)  How to keep project(s) in resume
+
+			3) How many projects we need to keep in resume
+
+			4) How to cover gap as experience
+
+			5) How to manage PF & UAN
+
+			6) How to apply for Jobs in job portals
+
+
+
+			Telegram Channel Username : @ashokitofficial
+
+
+
+
+			================
+			Resume Structure
+			================
+
+			Section - 1) Professional Summary
+
+			Section - 2) Work Experience (companies details)
+
+			Section - 3) Educational Details
+
+			Section - 4) Techical Skills
+
+			Section - 5) Projects with Description, Roles & Responsibilities
+
+			Section - 6) Declaration
+
+
+			===================
+			Professional Summary
+			===================
+
+			--------------------------
+			Java Developers
+			-------------------------
+			-> Years of Experience
+			-> Java Technologies  (Spring Boot & Microservices)
+			-> Microservices Architecture
+			-> REST API Details (JSON Data)
+			-> Design Patterns
+			-> Databases (Oracle, MySQL, Mongo DB, AWS RDS)
+			-> Frontend Technologies ( Angular or React JS)
+			-> DevOps Tools (Maven, Git Hub, Jenkins, Docker, K8S)
+			-> AWS Services (Ec2, S3, RDS, Route 53,  ..... etc)
+
+		
+		
+
+
+
+			------------------------
+			Work Experience
+			------------------------
+
+			if you have 1.5 years gap ---> show that 1.5 years in one company
+
+			if you have 2 years gap --> show that 2 years in one company
+
+			If you have 3 years gap ----> show that 3 years exp in one company
+
+			if you have 3.5 years gap ---> show 3 years exp in one company (5 months you can say as learning period)
+			 
+			if you have 4 years gap ---> show 3.5 years exp in one company  (5 months you can say as learning period)
+
+			if you have 5 years gap --->  first 2.5 years i have done a business at home town + from last 2.5 years working in IT
+
+			if you have 6 years gap --->  first 3 years i have done a business at home town + from last 3 years working in IT
+
+			if you have 6 years gap --->  first 5 years i have done a business at home town + from last 3 years working in IT
+
+
+			Parent Company / Payroll Company ----> The company which is paying salary for us + giving exp documents
+
+			Client Company  ---> The company for which we will do the work / project
+
+			Note: In Resume you mention Client Company
+
+
+			Note: Consultancies will give exp documents (that company you need to say as parent company)
+
+
+			Client Company ------> TCS
+
+			Payroll Company ----> Global Systems
+
+
+			=================
+			Educational Details
+			==================
+
+			Freshers ------> SSC, Intermediate, Graduation, Post Graduation with Percentages
+
+
+			Experiened  ----> Highest Qualification
+
+
+			Note: For experienced people percentages are not important
+
+
+			=================
+			Technical Skills
+			=================
+
+			-------
+			java
+			-------
+
+			Backend Technlogies : JAVA, J2EE, Hibernate with JPA, SPRING CORE, SPRING BOOT, REST API & Microservices
+			Frontend Technlogies: HTML, CSS, JS, Bootstrap, Angular / React JS
+			Databases : Oracle, MySQL, Mongo DB, H2 etc...
+			AWS Cloud : Ec2, S3, RDS, LBR, Route 53, VPC etc.....
+			Tools : Maven, Git, Jenkins, Log4J, Junit, Jacoco, Sonar, Nexus, JMETER, Docker, K8S, Kafka, Redis, Swagger, PostMan, Lombok etc...
+			Operating Systems :  Windows, Linux
+
+
+			
+
+
+			===============
+			Project Details
+			===============
+
+			----------
+			Java 
+			-----------
+
+			1 - 2 years ---> 1 project
+
+			 2+  - 3 / 3.5 years exp   ------> 1 or 2  projects
+
+
+			Project Name : CMS
+
+			Duration :  Nov-2019 to till date
+
+			Environment :  Technologies
+
+			Domain : Banking
+
+			Role : Team Member
+
+			Description : ....
+
+			Roles & Responsibilities :
+
+
+			1) Gathering Requirements from Functional Team
+			2) Analyse requirements
+			3) DB Design
+			4) Backend apis development
+			5) Code Integration in Git Hub
+			6) Code Review using Sonar
+			7) Unit Testing with Coverage (Junit  + Mockito + Jacoco)
+			8) Bug Fixing
+			9) Frontend development
+			10) Backend + Frontend Integration
+			11) Deployments
+			12) Support
+			13) Scrum Calls
+			14) Sprint Planning
+			15) Retrospective
+
+
+			Java Resume Headline:
+			+++++++++++++++++++ 
+
+			-> Java fullstack developer with 3+ years of experience in application development using spring boot & microservices.
+
+
+
+			Java Keyskills:
+
+			java, j2ee, spring core, spring mvc, spring boot, rest api, microservices, spring security, kafka, jenkins, docker, junit, oracle etc.....
+
+
+			
+
+
+			===============================
+			What is Total Exp and Relevant Exp
+			===============================
+
+			Total Experience In IT : 9.5 years 
+
+			Relevant Experience in Spring Boot : 5 years 
+
+
+			Total Exp : 3 years
+
+			Relevant exp on k8s : 2 years
+
+			==========================
+			What is Your Notice Period
+			==========================
+
+			If any employee wants to leave present company then employee should serve notice period
+
+
+			1 month
+
+			2 months
+
+			3 months
+
+
+			Q) Can you negotiate notice period ?
+
+			Ans)  I will try my best  , I will check with my manager , If my manager release me I will join
+
+			Q) My company have 1 month notice period but  I negotitate with my manager and try my best , if not then I have to
+			  wait for 1 month
+
+			=======================
+			What is Joining Bonus
+			=======================
+
+			-> If you reduce notice period, if you join immediatley new company will provide some joining bonus amount
+
+
+			50 k
+
+			1 lakh
+
+
+
+			Q) you can ask HR for joining bonous , mostly they will give
+
+
+			========================
+			Do you have buyout option ?
+			=========================
+
+			If you don't want to serve your notice period, then you need to pay money for company to come out immediatley
+
+
+			Note : We need to pay buyout amount from our pocket first then new company will give that amount to us.
+
+
+			=================
+			What is Abscond ? or Abscand
+			=================
+
+			-> Leaving company without following company rules & policies
+
+			Note: If you abscond from the company, they will not provide any documents and they don't support for background verification.
+
+			Note: We shouldn't do like this
+
+
+			===========
+			UAN & PF
+			================
+
+			UAN - Universal Account Number 
+
+			PF - Provident Fund (12 % of basic salary)
+
+			Note:  Employer 12 % + Employee 12 %  =====> 24% PF amount  note company 12% is optional
+
+			From your salary  ----> 1200
+
+			Company will provide ---> 1200  
+
+			Montly 2400 will be added to our PF account
+
+			Note: Every company will give you one PF account.
+
+			=> All our PF accounts will be linked with one UAN number.
+
+			Note:  When we change company we can transfer old company PF amount to new company provided PF account
+
+
+			Q) My  company have no PF policy because my company is small outsourcing company so they dont
+
+			or 
+			I dont take PF because its optional in my company
+
+			====================
+			Payslip   - every month
+			=====================
+
+			=> Every month company will provide payslip
+
+			=> Payslip contains how many days woked in that month & how many leaves
+
+			=> How much salary we got  ( PF + HRA + Basic salary + Income Tax Deducted )
+
+
+			Note: In company HR portal we can download payslip
+
+			============
+			Form - 16   - every year
+			============
+
+			-> It contains our income tax details
+
+			-> How much salary we earned in last year
+
+			-> How much tax we paid for govt
+
+
+			Note: We need to file ITR every year ( Consult one Charted Account - CA )
+
+
+
+
+
+         
+
+         ##########################
+          Interview Q 
+        ##########################
+
+
+      => Note: Explain every Q answer in technical way
+      => only 2 questions are enough to  interviewer to  know , you are fake or real candidate
+
+
+
+       1) Why Java  , why not any other language
+       ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+       -> Portability : it can run on any platform and open source
+       -> Security : it protects the customers from malicious script injection
+       -> Strong OOPS concept => Resuability , performance etc
+       -> Robust : Its reliable and efficeent  |  मजबूत: ते विश्वसनीय आणि कार्यक्षम आहे
+       -> Widely used : Simple programing language and easy to learn
+
+
+       2) Do you hold other offers
+       ++++++++++++++++++++++++++++
+
+       -> Yes , I am currently in discussion with a few other organizations , and I have received positive feedback from them 
+       -> But I am particularly excited about this opportunity because of specific reason related to this role 
+       -> and I belive it aligns welll with my career goals and values, while I am exploring my options 
+
+
+       3) Why do you want to leave your current job
+       ++++++++++++++++++++++++++++++++++++++++++++
+
+       -> I spent 2 years of times with this role 
+       -> Now I am looking for new challenges  
+       -> and I think the position you are offering is perfectly aligns with my aspirations 
+       -> this will help me in pushing my boundries even further 
+
+       or
+
+       -> I learnt a lot in my current company and now I am looking for more challenging assignments
+
+
+       4)  Can you accept our offer with 8 lakh salary 
+       ++++++++++++++++++++++++++++++++++++++++++++++++
+
+       -> Thank you so much  for this offer 
+       -> Can you send all these details on email , so I can go through it and get back to you
+
+
+
+       5) How much salary you Expected
+       ++++++++++++++++++++++++++++++++
+
+       -> Based on my current experience , the skills I possess , and my research on salaries for this role ,
+       -> I am looking to get a CTC of 10 lacs Is that within your range
+
+
+       6) We are offering you 5 lacks for this role 
+       +++++++++++++++++++++++++++++++++++++++++++++
+
+       -> My achivement in the last 2 years , and the alignment with the current role ,
+       -> I am looking to get hired in salary range of Rs. 8 to 10 lacks
+
+
+
+       7) Interviewer , D you have any question for us
+       +++++++++++++++++++++++++++++++++++++++++++++++++
+
+       -> yes , how would you describe the job in this position in the company in the next 3 , 6 , 12 months
+
+
+       8) Why do you want to work with us 
+       +++++++++++++++++++++++++++++++++++
+
+       -> I am excited about the opportunity to contribute my skills and grow professionally 
+
+
+
+       9) Where do you work currently 
+       ++++++++++++++++++++++++++++++++++
+
+       10) Where are you from 
+       +++++++++++++++++++++++
+
+       -> My hometown is  Maharastra .
+       -> But, I have been living in Mumbai for almost 6 years due to my work related responsibilities
+
+
+       11) What do you do in your free time
+       +++++++++++++++++++++++++++++++++++++
+
+       -> I am outgoing person .
+       -> In my free time , I do a range of activites including , yoga and Hiking and it helps me to rechargeand stay focused
+
+
+       12)  Can you tell me your name
+       ++++++++++++++++++++++++++++++ 
+
+       -> My name is Nilesh Nangde  and I spell my surname nangde as N A N G D E
+
+
+
+       13) Congrulations Nilesh are you available to start  work
+       +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+       ->  I am thrilled about the prospect of joining your team 
+       -> My company has a notice period of 15 days which I need to serve to facilitate a seamless transition for my colleagues
+       -> I can join the company latest by 1st April 
+
+
+
+
+       Top websites for Work from Home
+       ###############################
+       -> Remote.CO
+       -> Topatal
+       -> AngelList
+       -> Flex Jobs
+       -> We Work remotely
+
+
+
+    
+
+        Interview Mistakes
+        #####################
+
+        1) I don't know   -> I need a minute to think
+
+        2) I think        -> I belive
+
+        3) I am a quick learner -> I can explore if the the enviorment is supportive
+
+        4) I know   ->  I have a well bit of experience in it 
+
+        5) Shure    ->  there is potential because I have done things like this in the past
+
+        6) I dont recall
+
+        7) No Idea
+
+
+
+
+
+
+    
+        +++++++++++++++++++++
+        20 Coporate Keywords
+        +++++++++++++++++++++
+
+        1) ASAP     As Soon As Possible
+
+        2) FYI      For your Information
+
+        3) ROI      Return of Investment
+
+        4) EOD      End of the Day
+
+        5) ETA      Estimate Time to Arrive
+
+        6) PTO      Paid Time Of
+
+        7) OOO      Out Of Office
+
+        8) PFB     Please Find Below
+
+        9) TBD     To Be Decided
+
+        10) EOM    End Of Message
+
+        11) MOM    Minutes of Meeting 
+
+        12) COB    Close Of Business
+
+        13) LMK    Let Me Know
+
+        14) BID     Break it Down
+
+        15) IAM   I Am in Meeting
+
+        16) POC   Point Of Contact
+
+        17) SME   Subject Matter Expert
+
+        18) TYT   Take Your Time
+
+        19) WFH   Work From Home
+
+        20) FTE   Full Time Employee 
