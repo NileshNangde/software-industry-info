@@ -30,6 +30,124 @@
 
 
 
+
+          Introduction in Interview
+           +++++++++++++++++++++++++
+
+           1) Self Introduction
+
+           2) What is your current project 
+                - Expalin Project Architecture (Project Module) 
+                - Purpose of Application , Modules , purpose of each module 
+
+           3) What are your Roles and Responsibilities in project 
+
+           -> If Interviewer will impress then only he go for Technical Q
+
+           4) Technical questions on Core Java 
+
+           5) Spring Boot
+
+           6) Microservices
+
+           7) Some Tools
+
+
+         ++++++++++++++++++++++++
+           Expalin about yourself
+           ++++++++++++++++++++++
+
+           -> 3 Main steps to expalin about your self
+                1) Who we are , what is our experience , and where we are working
+                2) What is our technical skills , what technologies we are used in our past
+                3)  What is our project and what are our roles and responsiblilties
+
+
+                step1) 
+
+                -> Hi , My name is Nilesh , I am having total 2+ years of experience as a Java Developer and currently I am working for Deloitte organization
+
+
+
+                step 2) 
+
+                -> In the  last 2 years of Time , I got the oppertunity to work with several technologies like Java , J2EE, Spring , SPring Boot , REst Api's , Microservices , Oracle DataBase and Several tools like  Git , Maven , SonarQube , Junit etc
+
+                -> I am having  very good experience with java, J2EE technologies
+
+                -> I am having  very good experience with Microservices Architecture implementation
+
+                -> I am having  very good experience with Unit testing for our application
+
+               
+               Step 3) 
+
+               -> Project Explaination
+
+               -> My Project is following Agile Technology so , I am responsible for the activites like 
+
+                   1) I participate in the backlog groming session to understand what are the pending items in the project 
+
+                   2) I will participate in the sprint planing session to understand the  stories in the project and 
+
+                   3) I am going to  get the function design docoument from the functional team  ,
+                      my project functionality is at client location . I will go through the function design document ,
+                      I will understand the requirement . If any queries are there in the requirement , 
+                      I will setup meething with my the functional team and get the clearification from them .
+
+                    4) Once all my Queries got clearified then I start the design part of my requirement  
+
+                    5) I am going to design database tables which are required for my development
+
+                    6) Once the design is completed then I will start development part .
+
+                    7) I am responsible to the develop backend  of my application
+
+                    8) Once my development is completed then I will perform Unit Testing to Test is my code is working as expected or not
+
+                    9) Once Unit testing is completed then I will perform Code Review to Identify any code mistake that I have done in that.
+
+                    10) Code review issues I will Identify and I will fixed them 
+
+                    11) Once Code review issues I fixed then  I will Integrate my code with other team members code in the GIT repository
+
+                    12) If any BUG will identify by testing team , then that reportes BUGs I will fixed  and give the BUG free code to the testing team 
+
+                    So this are the responsibilites of me in my current project 
+
+                    note I am not responsible in production realease 
+
+
+
+
+           ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+           What are the Roles and Responsiblites of you in current porject : this is at High level 
+           +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+            1) Requirement Analysis
+            2) QUery Log Preparation ( in excel)
+            3) Conncet with functional team ( to solve the query)
+            4) Raise REquest for GIT Repo Creation
+            5) Raise Request for Pipeline Creation
+            6) DataBase Tables Design
+            7) Development / Coading
+            8) Unit Testing
+            9) Code Review ( SonarQube)
+            10) Code Integration ( Repository)
+            11) Code Development in Dev Enviorment
+            12) Integration Testing
+            13) Bug Fixing
+            14) SIT Support
+            15) UAT Support
+            16) Production Support
+            17) Documentation  
+            18) KT for new Team members
+            19) In House training in company
+            20) Conncet with Manager for feedback
+
+
+
+
 ==============================
 Types of Software Companies
 ==============================
