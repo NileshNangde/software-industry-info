@@ -875,3 +875,26 @@ Types of Company Domain in IT industry
         19) WFH   Work From Home
 
         20) FTE   Full Time Employee 
+
+
+
+       ++++++++++++++++++++++++++++++++++++++++++++
+        ### Different Enviorments of one project ###
+        ++++++++++++++++++++++++++++++++++++++++++++
+
+                        1) Dev Env : Developers will use it for code Integration testing
+
+			2) SIT Env : Testers will use it application end to end testing
+			             ( System Integration testing also called as QA Enviorment )
+
+			3) UAT Env : Client / Client Side Team will use it for acceptance testing.
+			             ( User Acceptance Testing )
+
+			               Note: In UAT client / client side team will decide GO or NO-GO
+
+							  GO : Approved for Production deployment
+							  NO-GO : Denied for Production Deployment
+
+			4) PILOT Env : Pre-Prod Env for testing and they application with  live data
+
+			5) PROD Env  : Live Environment (endusers will access from prod app)
